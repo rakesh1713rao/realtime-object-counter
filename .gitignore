@@ -1,0 +1,13 @@
+*.pt
+*.mp4
+*.avi
+*.mov
+screenshot.png
+output.mp4
+__pycache__/
+*.pyc
+.pytest_cache/
+runs/
+.DS_Store
+venv/
+.env
